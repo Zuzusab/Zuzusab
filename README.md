@@ -1,5 +1,5 @@
 <h1 align="center">Ahoj, volám sa Zuzana Sabová 👋</h1> <p align="center"> Junior programátorka | Študentka informatiky na Univerzite Konštantína Filozofa </p>
-## O mne
+### O mne
 
 Som študentka odboru aplikovaná informatika a momentálne sa venujem viacerým oblastiam, ktoré ma v rámci informatiky zaujímajú. Učím sa základy strojového učenia (ML) a veľkých jazykových modelov (LLM), venujem sa dátovej analýze a popri tom skúšam aj tvorbu hier.
 
